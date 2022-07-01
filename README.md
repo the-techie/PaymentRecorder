@@ -5,4 +5,4 @@
     
   - mongo_info.json: File containing the url to access the mongoDB Atlas database.
   - pymongo package
-  - google clien library for python
+  - google client library for python
